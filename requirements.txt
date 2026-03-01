@@ -12,3 +12,9 @@ filterpy>=1.4.5
 scipy>=1.10.0
 sqlalchemy>=2.0.0
 cryptography>=41.0.0
+streamlit-extras 
+streamlit-card 
+streamlit-aggrid 
+streamlit-echarts 
+streamlit-option-menu 
+streamlit-float
